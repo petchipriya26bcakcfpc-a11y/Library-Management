@@ -2,7 +2,6 @@
 
 
 
-
 ## Project Overview
 A user-friendly mobile application designed to make daily tasks easier.
 Provides simple navigation and an attractive interface.
@@ -60,7 +59,9 @@ Screens
 Figma Prototype link
 https://www.figma.com/design/sVJbW52KIeJaPwMfGMLJiW/Untitled?node-id=2-45&t=s8bZQvAapxYO7bL4-1
 
+Developed By B.Petchi Priya
 
+License This project is created for educational purpose only
 
 
 
